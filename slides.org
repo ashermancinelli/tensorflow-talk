@@ -1,0 +1,63 @@
+
+#+TITLE: Real Neural Networks
+#+AUTHOR: Asher Mancinelli
+#+EMAIL: ashermancinelli@gmail.com
+
+#+DESCRIPTION: Talk on the mathematics behind neural networks and 
+#+LANGUAGE: en
+#+OPTIONS:   H:2 num:t toc:t \n:nil @:t ::t |:t ^:t -:t f:t *:t <:t
+#+OPTIONS:   TeX:t LaTeX:t skip:nil d:nil todo:t pri:nil tags:not-in-toc
+#+INFOJS_OPT: view:nil toc:nil ltoc:t mouse:underline buttons:0 path:https://orgmode.org/org-info.js
+#+EXPORT_SELECT_TAGS: export
+#+EXPORT_EXCLUDE_TAGS: noexport
+#+LINK_UP:   
+#+LINK_HOME: 
+
+#+STARTUP: indent
+#+STARTUP: hidestars
+
+#+STARTUP: beamer
+#+LaTeX_CLASS: beamer
+#+LATEX_HEADER: \usepackage[backend=bibtex]{biblatex}
+#+LATEX_HEADER: \bibliographystyle{plain}
+#+LATEX_HEADER: \bibliography{ref}
+#+LaTeX_CLASS_OPTIONS: [bigger]
+
+# This means that beamer will export second level headlines as frames, 
+# and first level headlines as sections in the presentation.
+#+BEAMER_FRAME_LEVEL: 2
+
+# The [[https://orgmode.org/worg/exporters/beamer/tutorial.html][org-mode presentation tutorial]] is where many of these mysterious commands come from, reference
+# this document for this line. Has something to do with formatting the latex into beamer.
+#+COLUMNS: %40ITEM %10BEAMER_env(Env) %9BEAMER_envargs(Env Args) %4BEAMER_col(Col) %10BEAMER_extra(Extra)
+
+
+* Introduction
+
+** Who Am I?
+
+#+BEGIN_LaTeX
+\begin{center}
+  \textsc{Whitworth University, 2020} \\
+  \textsc{BS Math, BS CS} \\
+  \textsc{Research Computing @ PNNL}
+\end{center}
+#+END_LaTeX
+
+** Why Neural Networks?
+
+- _Intractable Problem_: A problem that by its nature, is extremely difficut to cast in terms of the conventional, Von-Neumann computer architecture. 
+See \cite{DavidSkapura}
+
+* Conclusion
+
+** Questions
+
+Questions?
+
+** References
+
+:PROPERTIES:
+:BEAMER_OPT: fragile,allowframebreaks,label=
+:END:
+\printbibliogrophy
