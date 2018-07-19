@@ -81,11 +81,11 @@
 - Not actually a new idea, dates back to John von Neumann in the 1950's$^1$
 - Note: more on all this later...
 
-** History
+** Some Terms
 
 - _Multilayer Perceptron_: layers and layers of perceptrons all connected together, aka a /dense neural network/
-- _Deep Learning_: Multilayer perceptron with \leq 3 layers is /deep/, \rightarrow we get /deep learning/!
-- _Neocognitron_: Early image processing neural network, predecessor to the /convolutional/ neural network
+- _Deep Learning_: Multilayer perceptron with \geq 3 layers is /deep/, therefor we get /deep learning/!
+- _Neocognitron_: Early image processing neural network, predecessor to the /convolutional/ neural network$^{2}$
 
 ** History
 
@@ -139,19 +139,23 @@ For today we'll use
 #+BEGIN_SRC python :exports code
 import keras
 from keras.layers import Sequential, Dense
-import numpy as np
 
 model = Sequential()
 model = Dense(4, activation='relu')
 model = Dense(3, activation='relu')
 model = Dense(1, activation='softmax')
-model.compile()
+model.compile(
+    optimizer='rmsprop',
+    loss='binary_crossentropy',
+    metrics='accuracy'
+)
 #+END_SRC
 
 * Conclusion
 
 ** Questions?
 **References**:
-- [1]: Luger, George F. Artificial Intelligence. 5th ed., Addison-Wesley, 2005.
-- [2]: Skapura, David M. Building Neural Networks. Addison-Wesley, 1996.
-
+- 1: Luger, George F. Artificial Intelligence. 5th ed., Addison-Wesley, 2005.
+- 2: Skapura, David M. Building Neural Networks. Addison-Wesley, 1996.
+- 3: 
+  
