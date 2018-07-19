@@ -19,6 +19,7 @@
 #+STARTUP: beamer
 #+LaTeX_CLASS: beamer
 #+LaTeX_CLASS_OPTIONS: [bigger]
+#+LaTeX_HEADER: \usepackage{amsmath}
 
 # This means that beamer will export second level headlines as frames, 
 # and first level headlines as sections in the presentation.
@@ -61,8 +62,16 @@
 - Theory
 - Implementation (live coding? Yikes!)
 - Conclusion
-
+  
 * Motivation
+
+** Why Neural Networks?
+
+- _Intractable Problem_: A problem that by its nature, is extremely difficut to cast in terms of the conventional, Von-Neumann computer architecture.$^{2}$
+- AKA problems we humans don't think about, but are quite complex
+  - Computer vision, facial recognition
+  - Audio signals
+  - Fuzzy logic
 
 ** History
 
@@ -75,20 +84,12 @@
 ** History
 
 - _Multilayer Perceptron_: layers and layers of perceptrons all connected together, aka a /dense neural network/
-- _Deep Learning_: Multilayer perceptron with > 3 layers is /deep/, \rightarrow we get /deep learning/!
+- _Deep Learning_: Multilayer perceptron with \leq 3 layers is /deep/, \rightarrow we get /deep learning/!
 - _Neocognitron_: Early image processing neural network, predecessor to the /convolutional/ neural network
-
-** Why Neural Networks?
-
-- _Intractable Problem_: A problem that by its nature, is extremely difficut to cast in terms of the conventional, Von-Neumann computer architecture.$^{2}$
-- AKA problems we humans don't think about, but are quite complex
-  - Computer vision, facial recognition
-  - Audio signals
-  - Fuzzy logic
 
 ** History
 
-Where we are now...
+Current state of deep learning
 [[./images/big-data-sex.jpg]]
 
 * Theory
@@ -99,12 +100,54 @@ Remember the /perceptron/?
 
 ** Math - My Favorite!
 
-_Perceptron_:
 [[./images/perceptron.png]] 
 $$ output = f(\sum_{i=0}^{n} x_i \times w_i) $$
 
+** Math - My Favorite!
+
+- _Activation Function_: Scaling function for output of \sum of inputs
+- Ex. _ReLU Activation Function_:
+#+BEGIN_EXPORT latex
+\[ \begin{cases} 
+      0 & x \leq 0 \\
+      x & x > 0
+   \end{cases}
+\]
+#+END_EXPORT
+
+** Math - My Favorite!
+
+Lets hook a few of these together...
+[[./images/mlp.jpg]]
 
 * Implementation
+
+** Implementation
+Live coding! Whatever could go wrong?
+
+** Too Many Choices!
+[[./images/frameworks.png]]
+
+** Keep It Simple
+For today we'll use 
+#+ATTR_LaTeX: width=0.8\textwidth
+[[./images/keras-python.png]]
+
+** Getting Started
+
+#+name: simple-model
+#+BEGIN_SRC python :exports code
+import keras
+from keras.layers import Sequential, Dense
+import numpy as np
+
+model = Sequential()
+model = Dense(4, activation='relu')
+model = Dense(3, activation='relu')
+model = Dense(1, activation='softmax')
+model.compile()
+#+END_SRC
+
 * Conclusion
 
 ** Questions?
