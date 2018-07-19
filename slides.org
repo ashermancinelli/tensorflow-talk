@@ -1,11 +1,11 @@
 
-#+TITLE: Real Neural Networks
+#+TITLE: Neural Networks & Facial Recognition
 #+AUTHOR: Asher Mancinelli
 #+EMAIL: ashermancinelli@gmail.com
 
 #+DESCRIPTION: Talk on the mathematics behind neural networks and 
 #+LANGUAGE: en
-#+OPTIONS:   H:2 num:t toc:t \n:nil @:t ::t |:t ^:t -:t f:t *:t <:t
+#+OPTIONS:   H:2 num:t toc:nil \n:nil @:t ::t |:t ^:t -:t f:t *:t <:t
 #+OPTIONS:   TeX:t LaTeX:t skip:nil d:nil todo:t pri:nil tags:not-in-toc
 #+INFOJS_OPT: view:nil toc:nil ltoc:t mouse:underline buttons:0 path:https://orgmode.org/org-info.js
 #+EXPORT_SELECT_TAGS: export
@@ -18,9 +18,6 @@
 
 #+STARTUP: beamer
 #+LaTeX_CLASS: beamer
-#+LATEX_HEADER: \usepackage[backend=bibtex]{biblatex}
-#+LATEX_HEADER: \bibliographystyle{plain}
-#+LATEX_HEADER: \bibliography{ref}
 #+LaTeX_CLASS_OPTIONS: [bigger]
 
 # This means that beamer will export second level headlines as frames, 
@@ -32,32 +29,86 @@
 #+COLUMNS: %40ITEM %10BEAMER_env(Env) %9BEAMER_envargs(Env Args) %4BEAMER_col(Col) %10BEAMER_extra(Extra)
 
 
+# Intended Outline:
+# - Motivation & Use Cases
+#   - History
+#   - Why Neural Networks?
+# - Theory 
+#   - Mathematics
+#   - Computer Science
+#   - Image Processing
+# - Implementation
+#   - Lets Write A NN!
+#   - In Production
+# - Conclusion
+#   - Questions?
+
 * Introduction
 
 ** Who Am I?
 
-#+BEGIN_LaTeX
+#+BEGIN_LATEX
 \begin{center}
+  \textsc{Asher Mancinelli} \\
   \textsc{Whitworth University, 2020} \\
   \textsc{BS Math, BS CS} \\
-  \textsc{Research Computing @ PNNL}
+  \textsc{Research Computing Intern @ PNNL}
 \end{center}
 #+END_LaTeX
 
+** Outline
+- Motivation
+- Theory
+- Implementation (live coding? Yikes!)
+- Conclusion
+
+* Motivation
+
+** History
+
+# Note: This field is actually quite old, and dates back to Von Neumann. Began with the perceptron, which took 
+# /n/ inputs with weights and an activation function. 
+- _Perceptron_: Models a neuron \rightarrow takes inputs and passes through activation and threshold functions. 
+- Not actually a new idea, dates back to John von Neumann in the 1950's$^1$
+- Note: more on all this later...
+
+** History
+
+- _Multilayer Perceptron_: layers and layers of perceptrons all connected together, aka a /dense neural network/
+- _Deep Learning_: Multilayer perceptron with > 3 layers is /deep/, \rightarrow we get /deep learning/!
+- _Neocognitron_: Early image processing neural network, predecessor to the /convolutional/ neural network
+
 ** Why Neural Networks?
 
-- _Intractable Problem_: A problem that by its nature, is extremely difficut to cast in terms of the conventional, Von-Neumann computer architecture. 
-See \cite{DavidSkapura}
+- _Intractable Problem_: A problem that by its nature, is extremely difficut to cast in terms of the conventional, Von-Neumann computer architecture.$^{2}$
+- AKA problems we humans don't think about, but are quite complex
+  - Computer vision, facial recognition
+  - Audio signals
+  - Fuzzy logic
 
+** History
+
+Where we are now...
+[[./images/big-data-sex.jpg]]
+
+* Theory
+
+** Math - My Favorite!
+
+Remember the /perceptron/?
+
+** Math - My Favorite!
+
+_Perceptron_:
+[[./images/perceptron.png]] 
+$$ output = f(\sum_{i=0}^{n} x_i \times w_i) $$
+
+
+* Implementation
 * Conclusion
 
-** Questions
+** Questions?
+**References**:
+- [1]: Luger, George F. Artificial Intelligence. 5th ed., Addison-Wesley, 2005.
+- [2]: Skapura, David M. Building Neural Networks. Addison-Wesley, 1996.
 
-Questions?
-
-** References
-
-:PROPERTIES:
-:BEAMER_OPT: fragile,allowframebreaks,label=
-:END:
-\printbibliogrophy
