@@ -57,12 +57,13 @@
 \end{center}
 #+END_LaTeX
 
-** Outline
-- Motivation
-- Theory
-- Implementation (live coding? Yikes!)
-- Conclusion
-  
+** Goals  
+- Understand motivation behind neural networks
+- Understand theory behind them
+- Understand implementation
+- See an example
+- See how it can be applied to facial recognition
+
 * Motivation
 
 ** Why Neural Networks?
@@ -98,14 +99,18 @@ Current state of deep learning
 
 Remember the /perceptron/?
 
-** Math - My Favorite!
+** Biological Neuron
+
+[[file:images/real-neuron.jpeg]]
+
+** Artificial Neuron
 
 [[./images/perceptron.png]] 
 $$ output = f(\sum_{i=0}^{n} x_i \times w_i) $$
 
 ** Math - My Favorite!
 
-- _Activation Function_: Scaling function for output of \sum of inputs
+- _Activation Function_: Scaling function for output of \sum of inputs to add nonlinearity
 - Ex. _ReLU Activation Function_:
 #+BEGIN_EXPORT latex
 \[ \begin{cases} 
@@ -120,7 +125,14 @@ $$ output = f(\sum_{i=0}^{n} x_i \times w_i) $$
 Lets hook a few of these together...
 [[./images/mlp.jpg]]
 
+** Where's the Learning?
+
+_Backpropogation_: Minimizing network error by comparing the actual output to the desired output, 
+and making corrections to each node based on its contribution to the output.
+
+** 
 * Implementation
+# May actually cut this whole part out, as it may not be smart or helpful to show real code. 
 
 ** Implementation
 Live coding! Whatever could go wrong?
@@ -147,6 +159,12 @@ model = Dense(3, activation='relu')
 model = Dense(1, activation='softmax')
 model.compile()
 #+END_SRC
+
+* Facial Recognition
+
+** Why is it so hard?
+
+
 
 * Conclusion
 
