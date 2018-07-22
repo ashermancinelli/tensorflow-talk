@@ -101,7 +101,11 @@ Remember the /perceptron/?
 
 ** Biological Neuron
 
-[[file:images/real-neuron.jpeg]]
+[[./images/neuron.png]]
+
+** Artificial Neuron
+
+[[./images/neuron-math.png]]
 
 ** Artificial Neuron
 
@@ -166,7 +170,6 @@ model.compile(
 * Facial Recognition
 
 ** Why is it so hard?
-
 
 
 * Conclusion
