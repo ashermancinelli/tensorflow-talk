@@ -171,7 +171,6 @@ model.compile(
 
 ** Why is it so hard?
 
-
 * Conclusion
 
 ** Questions?
