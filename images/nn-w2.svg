@@ -11,8 +11,8 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="107.23186mm"
-   height="60.549835mm"
-   viewBox="0 0 107.23186 60.549835"
+   height="44.107868mm"
+   viewBox="0 0 107.23186 44.107868"
    version="1.1"
    id="svg8"
    sodipodi:docname="nn-w2.svg"
@@ -53,8 +53,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
-     inkscape:cx="65.726561"
-     inkscape:cy="129.15381"
+     inkscape:cx="32.620131"
+     inkscape:cy="67.010935"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -67,8 +67,8 @@
     <inkscape:grid
        type="xygrid"
        id="grid27"
-       originx="-47.557152"
-       originy="-900.62436" />
+       originx="-47.557156"
+       originy="-917.06629" />
   </sodipodi:namedview>
   <metadata
      id="metadata5">
@@ -86,7 +86,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-1.7566243,-72.350819)">
+     transform="translate(-1.7566243,-72.350816)">
     <circle
        style="fill:url(#linearGradient68);fill-opacity:1;stroke:#000000;stroke-width:0.13833742;stroke-opacity:1"
        id="path10"
@@ -209,7 +209,7 @@
          x="12.345174"
          y="85.762306"
          style="stroke-width:0.10735308">x<tspan
-   style="font-size:65%;baseline-shift:sub"
+   style="font-size:64.99999762%;baseline-shift:sub"
    id="tspan6989">0</tspan></tspan></text>
     <text
        xml:space="preserve"
@@ -223,7 +223,7 @@
          x="11.903146"
          y="98.629234"
          style="stroke-width:0.10735308">x<tspan
-   style="font-size:65%;baseline-shift:sub"
+   style="font-size:64.99999762%;baseline-shift:sub"
    id="tspan6991">1</tspan></tspan></text>
     <text
        xml:space="preserve"
@@ -396,8 +396,8 @@
          x="69.348145"
          y="85.687233"
          style="stroke-width:0.11853122">w<tspan
-   style="font-size:64.99999762%;baseline-shift:sub"
-   id="tspan4093">1,0</tspan></tspan></text>
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan9576">0,1</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.74124956px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.11853122"
@@ -412,48 +412,12 @@
          style="stroke-width:0.11853122">w<tspan
    style="font-size:64.99999762%;baseline-shift:sub"
    id="tspan4095">1,1</tspan></tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:6.71317291px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.14801612"
-       x="12.194523"
-       y="120.13672"
-       id="text4118"
-       transform="scale(0.98190564,1.0184278)"><tspan
-         sodipodi:role="line"
-         id="tspan4116"
-         x="12.194523"
-         y="120.13672"
-         style="baseline-shift:baseline;stroke-width:0.14801612"><tspan
-   style="fill:#2aff2a"
-   id="tspan4977">N</tspan><tspan
-   style="font-size:4.36356211px;baseline-shift:sub;fill:#2aff2a;stroke-width:0.14801612"
-   id="tspan4128">0</tspan> = f(<tspan
-   style="fill:#37abc8"
-   id="tspan4967">I</tspan><tspan
-   style="font-size:4.36356211px;baseline-shift:sub;fill:#37abc8;stroke-width:0.14801612"
-   id="tspan4126">0</tspan>x<tspan
-   style="fill:#ff0000"
-   id="tspan4959">W</tspan><tspan
-   style="font-size:4.36356211px;baseline-shift:sub;fill:#ff0000;stroke-width:0.14801612"
-   id="tspan4120">0,0</tspan>+<tspan
-   style="fill:#37abc8"
-   id="tspan4973">I</tspan><tspan
-   style="font-size:4.36356211px;baseline-shift:sub;fill:#37abc8;stroke-width:0.14801612"
-   id="tspan4146">1</tspan>x<tspan
-   style="fill:#ff0000"
-   id="tspan4963">W</tspan><tspan
-   style="font-size:4.36356211px;baseline-shift:sub;fill:#ff0000;stroke-width:0.14801612"
-   id="tspan4148">2,0</tspan>+<tspan
-   style="fill:#2aff2a;fill-opacity:1"
-   id="tspan5957">B</tspan><tspan
-   style="font-size:65%;baseline-shift:sub;fill:#2aff2a;fill-opacity:1"
-   id="tspan955">0</tspan>)</tspan></text>
     <rect
-       style="fill:#2aff2a;fill-opacity:0;stroke:#000000;stroke-width:0.24654283;stroke-opacity:1"
+       style="fill:#2aff2a;fill-opacity:0;stroke:#000000;stroke-width:0.21038514;stroke-opacity:1"
        id="rect5002"
-       width="106.98531"
-       height="60.303291"
-       x="1.8798957"
-       y="72.474091" />
+       width="107.02147"
+       height="43.897484"
+       x="1.8618169"
+       y="72.456009" />
   </g>
 </svg>
