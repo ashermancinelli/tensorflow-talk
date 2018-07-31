@@ -134,7 +134,11 @@ Lets hook a few of these together...
 _Backpropogation_: Minimizing network error by comparing the actual output to the desired output, 
 and making corrections to each node based on its contribution to the output.
 
-** 
+** Cost Function
+
+Example Network 
+[[./images/sample-network.png]]
+
 * Implementation
 # May actually cut this whole part out, as it may not be smart or helpful to show real code. 
 
