@@ -15,7 +15,7 @@
    viewBox="0 0 107.23186 60.549835"
    version="1.1"
    id="svg8"
-   sodipodi:docname="nn-w2.svg"
+   sodipodi:docname="nn-w21.svg"
    inkscape:export-filename="/home/asher/sample-network.png"
    inkscape:export-xdpi="250"
    inkscape:export-ydpi="250"
@@ -53,7 +53,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
-     inkscape:cx="65.726561"
+     inkscape:cx="90.767017"
      inkscape:cy="129.15381"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -118,7 +118,7 @@
        cy="97.289703"
        r="4.6933312" />
     <path
-       style="fill:#ff0000;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:#ff0000;fill-rule:evenodd;stroke:#030000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 32.554799,89.431745 18.490596,0.313397"
        id="path76"
        inkscape:connector-type="polyline"
@@ -126,7 +126,7 @@
        inkscape:connection-start="#path10"
        inkscape:connection-end="#path10-6" />
     <path
-       style="fill:#ff0000;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#050000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 32.085463,101.29014 51.514728,91.871877"
        id="path80"
        inkscape:connector-type="polyline"
@@ -134,7 +134,7 @@
        inkscape:connection-start="#path10-3"
        inkscape:connection-end="#path10-6" />
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 32.031484,91.507268 51.663203,101.65475"
        id="path84"
        inkscape:connector-type="polyline"
@@ -142,7 +142,7 @@
        inkscape:connection-end="#path10-3-7"
        inkscape:connection-start="#path10" />
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 32.554802,103.41661 18.585081,0.31393"
        id="path86"
        inkscape:connector-type="polyline"
@@ -210,7 +210,7 @@
          y="85.762306"
          style="stroke-width:0.10735308">x<tspan
    style="font-size:65%;baseline-shift:sub"
-   id="tspan6989">0</tspan></tspan></text>
+   id="tspan7088">0</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.29412317px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.10735308"
@@ -224,7 +224,7 @@
          y="98.629234"
          style="stroke-width:0.10735308">x<tspan
    style="font-size:65%;baseline-shift:sub"
-   id="tspan6991">1</tspan></tspan></text>
+   id="tspan7090">1</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -425,29 +425,33 @@
          y="120.13672"
          style="baseline-shift:baseline;stroke-width:0.14801612"><tspan
    style="fill:#2aff2a"
-   id="tspan4977">N</tspan><tspan
-   style="font-size:4.36356211px;baseline-shift:sub;fill:#2aff2a;stroke-width:0.14801612"
-   id="tspan4128">0</tspan> = f(<tspan
+   id="tspan4977">N<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan7084">1</tspan></tspan> = f(<tspan
    style="fill:#37abc8"
    id="tspan4967">I</tspan><tspan
    style="font-size:4.36356211px;baseline-shift:sub;fill:#37abc8;stroke-width:0.14801612"
    id="tspan4126">0</tspan>x<tspan
    style="fill:#ff0000"
-   id="tspan4959">W</tspan><tspan
+   id="tspan4959">W<tspan
+   style="font-size:64.99999762%;baseline-shift:sub"
+   id="tspan1381">1</tspan></tspan><tspan
    style="font-size:4.36356211px;baseline-shift:sub;fill:#ff0000;stroke-width:0.14801612"
-   id="tspan4120">0,0</tspan>+<tspan
+   id="tspan4120">,0</tspan>+<tspan
    style="fill:#37abc8"
    id="tspan4973">I</tspan><tspan
    style="font-size:4.36356211px;baseline-shift:sub;fill:#37abc8;stroke-width:0.14801612"
    id="tspan4146">1</tspan>x<tspan
    style="fill:#ff0000"
-   id="tspan4963">W</tspan><tspan
+   id="tspan4963">W<tspan
+   style="font-size:64.99999762%;baseline-shift:sub"
+   id="tspan1383">3</tspan></tspan><tspan
    style="font-size:4.36356211px;baseline-shift:sub;fill:#ff0000;stroke-width:0.14801612"
-   id="tspan4148">2,0</tspan>+<tspan
+   id="tspan4148">,0</tspan>+<tspan
    style="fill:#2aff2a;fill-opacity:1"
-   id="tspan5957">B</tspan><tspan
+   id="tspan5895">B</tspan><tspan
    style="font-size:65%;baseline-shift:sub;fill:#2aff2a;fill-opacity:1"
-   id="tspan955">0</tspan>)</tspan></text>
+   id="tspan1385">1</tspan>)</tspan></text>
     <rect
        style="fill:#2aff2a;fill-opacity:0;stroke:#000000;stroke-width:0.24654283;stroke-opacity:1"
        id="rect5002"
@@ -455,5 +459,16 @@
        height="60.303291"
        x="1.8798957"
        y="72.474091" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="54.484299"
+       y="122.50631"
+       id="text1379"><tspan
+         sodipodi:role="line"
+         id="tspan1377"
+         x="54.484299"
+         y="131.87007"
+         style="stroke-width:0.26458332" /></text>
   </g>
 </svg>

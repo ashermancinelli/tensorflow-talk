@@ -10,12 +10,12 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="123.20855mm"
-   height="64.008362mm"
-   viewBox="0 0 123.20855 64.008362"
+   width="123.20856mm"
+   height="49.30854mm"
+   viewBox="0 0 123.20856 49.30854"
    version="1.1"
    id="svg7106"
-   inkscape:version="0.92.2 2405546, 2018-03-11"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="loss.svg">
   <defs
      id="defs7100">
@@ -49,17 +49,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.979899"
-     inkscape:cx="195.8813"
-     inkscape:cy="117.82219"
+     inkscape:zoom="0.9899495"
+     inkscape:cx="346.74223"
+     inkscape:cy="246.0643"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1836"
-     inkscape:window-height="940"
-     inkscape:window-x="40"
-     inkscape:window-y="96"
-     inkscape:window-maximized="1" />
+     inkscape:window-width="1276"
+     inkscape:window-height="988"
+     inkscape:window-x="1280"
+     inkscape:window-y="16"
+     inkscape:window-maximized="0" />
   <metadata
      id="metadata7103">
     <rdf:RDF>
@@ -117,7 +117,7 @@
        inkscape:connection-end="#path10-6" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 58.062618,57.938153 77.491893,48.519876"
+       d="M 58.062618,57.938154 77.491894,48.519877"
        id="path80"
        inkscape:connector-type="polyline"
        inkscape:connector-curvature="3"
@@ -133,7 +133,7 @@
        inkscape:connection-start="#path10" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 58.531957,60.064619 18.585088,0.313929"
+       d="m 58.531957,60.06462 18.585088,0.313929"
        id="path86"
        inkscape:connector-type="polyline"
        inkscape:connector-curvature="3"
@@ -141,7 +141,7 @@
        inkscape:connection-end="#path10-3-7" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 86.212777,47.813484 16.045633,4.783423"
+       d="m 86.212777,47.813485 16.045633,4.783423"
        id="path88"
        inkscape:connector-type="polyline"
        inkscape:connector-curvature="3"
@@ -149,7 +149,7 @@
        inkscape:connection-end="#path10-6-5" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 86.350375,59.271024 102.2153,55.124505"
+       d="M 86.350375,59.271025 102.2153,55.124506"
        id="path90"
        inkscape:connector-type="polyline"
        inkscape:connector-curvature="3"
@@ -157,14 +157,14 @@
        inkscape:connection-end="#path10-6-5" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 49.146462,45.93926 42.7026,45.855561"
+       d="M 49.146462,45.939261 42.7026,45.855561"
        id="path98"
        inkscape:connector-type="polyline"
        inkscape:connector-curvature="3"
        inkscape:connection-start="#path10" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 49.146417,59.926864 -6.916286,-0.0862"
+       d="m 49.146417,59.926865 -6.916286,-0.0862"
        id="path100"
        inkscape:connector-type="polyline"
        inkscape:connector-curvature="3"
@@ -199,8 +199,8 @@
          x="39.630753"
          y="44.489159"
          style="stroke-width:0.10735308">x<tspan
-   style="font-size:2.7911799px;baseline-shift:sub;stroke-width:0.10735308"
-   id="tspan112">1</tspan></tspan></text>
+   style="font-size:64.99999762%;baseline-shift:sub"
+   id="tspan6805">0</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.29412317px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.10735308"
@@ -213,22 +213,22 @@
          x="39.188725"
          y="57.356087"
          style="stroke-width:0.10735308">x<tspan
-   style="font-size:2.7911799px;baseline-shift:sub;stroke-width:0.10735308"
-   id="tspan135">2</tspan></tspan></text>
+   style="font-size:64.99999762%;baseline-shift:sub"
+   id="tspan6807">1</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="106.96037"
-       y="37.970318"
+       x="103.88677"
+       y="37.836681"
        id="text106-2"><tspan
          sodipodi:role="line"
          id="tspan104-9"
-         x="106.96037"
-         y="37.970318"
+         x="103.88677"
+         y="37.836681"
          style="font-size:3.17499995px;stroke-width:0.26458332">Output</tspan><tspan
          sodipodi:role="line"
-         x="106.96037"
-         y="51.199486"
+         x="103.88677"
+         y="51.065849"
          style="font-size:3.17499995px;stroke-width:0.26458332"
          id="tspan155" /></text>
     <text
@@ -422,34 +422,33 @@
          style="stroke-width:0.11645878">O<tspan
    style="font-size:64.99999762%;baseline-shift:sub"
    id="tspan7270">0</tspan></tspan></text>
+    <rect
+       style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.21916644;stroke-opacity:1"
+       id="rect7837"
+       width="122.98939"
+       height="49.089375"
+       x="24.69972"
+       y="25.030548" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:7.54766893px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.18869172"
-       x="53.27758"
-       y="75.686882"
-       id="text7274"
-       transform="scale(0.97167149,1.0291544)"><tspan
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:0.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="131.97948"
+       y="36.323429"
+       id="text106-2-3"><tspan
          sodipodi:role="line"
-         id="tspan7272"
-         x="53.27758"
-         y="75.686882"
-         style="stroke-width:0.18869172">Loss = (<tspan
-   style="fill:#ff8080;fill-opacity:1"
-   id="tspan7825">N</tspan><tspan
-   style="font-size:4.9059844px;baseline-shift:sub;fill:#ff8080;fill-opacity:1;stroke-width:0.18869172"
-   id="tspan7280">2</tspan> - <tspan
-   style="fill:#ffff00"
-   id="tspan7833">O</tspan><tspan
-   style="font-size:4.9059844px;baseline-shift:sub;fill:#ffff00;stroke-width:0.18869172"
-   id="tspan7278">0</tspan>)<tspan
-   style="font-size:4.9059844px;baseline-shift:super;stroke-width:0.18869172"
-   id="tspan7276">2</tspan></tspan></text>
-    <rect
-       style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.2497444;stroke-opacity:1"
-       id="rect7837"
-       width="122.95881"
-       height="63.758621"
-       x="24.71501"
-       y="25.045837" />
+         id="tspan104-9-6"
+         x="132.48488"
+         y="36.323429"
+         style="font-size:3.17499995px;line-height:0.25;text-align:center;text-anchor:middle;stroke-width:0.26458332">Intended </tspan><tspan
+         sodipodi:role="line"
+         x="131.97948"
+         y="39.967651"
+         style="font-size:3.17499995px;line-height:0.25;text-align:center;text-anchor:middle;stroke-width:0.26458332"
+         id="tspan4376">Output</tspan><tspan
+         sodipodi:role="line"
+         x="131.97948"
+         y="43.611874"
+         style="font-size:3.17499995px;line-height:0.25;stroke-width:0.26458332"
+         id="tspan155-7" /></text>
   </g>
 </svg>

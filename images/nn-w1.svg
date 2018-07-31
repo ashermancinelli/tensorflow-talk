@@ -15,7 +15,7 @@
    viewBox="0 0 100.80624 50.15744"
    version="1.1"
    id="svg5356"
-   inkscape:version="0.92.2 2405546, 2018-03-11"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="nn-w1.svg">
   <defs
      id="defs5350">
@@ -50,16 +50,16 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
-     inkscape:cx="166.60645"
+     inkscape:cx="78.035021"
      inkscape:cy="49.612083"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="896"
-     inkscape:window-height="940"
-     inkscape:window-x="40"
-     inkscape:window-y="96"
-     inkscape:window-maximized="1" />
+     inkscape:window-width="1276"
+     inkscape:window-height="988"
+     inkscape:window-x="1280"
+     inkscape:window-y="16"
+     inkscape:window-maximized="0" />
   <metadata
      id="metadata5353">
     <rdf:RDF>
@@ -68,7 +68,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -109,7 +109,7 @@
        r="4.6933312" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 79.079392,133.5502 18.490607,0.3134"
+       d="m 79.079392,133.55021 18.490607,0.31339"
        id="path76"
        inkscape:connector-type="polyline"
        inkscape:connector-curvature="3"
@@ -117,7 +117,7 @@
        inkscape:connection-end="#path10-6" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 78.610057,145.40861 19.429274,-9.41828"
+       d="m 78.610058,145.40861 19.429275,-9.41828"
        id="path80"
        inkscape:connector-type="polyline"
        inkscape:connector-curvature="3"
@@ -125,7 +125,7 @@
        inkscape:connection-end="#path10-6" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 78.556078,135.62573 19.631725,10.14748"
+       d="m 78.556078,135.62573 19.631726,10.14748"
        id="path84"
        inkscape:connector-type="polyline"
        inkscape:connector-curvature="3"
@@ -149,7 +149,7 @@
        inkscape:connection-end="#path10-6-5" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 106.89781,146.74148 15.86493,-4.14652"
+       d="m 106.89782,146.74148 15.86492,-4.14652"
        id="path90"
        inkscape:connector-type="polyline"
        inkscape:connector-curvature="3"
@@ -171,7 +171,7 @@
        inkscape:connection-start="#path10-3" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 131.9967,141.4273 6.18712,0.0252"
+       d="m 131.9967,141.42729 6.18712,0.0252"
        id="path102"
        inkscape:connector-type="polyline"
        inkscape:connector-curvature="3"
@@ -199,8 +199,8 @@
          x="61.213127"
          y="127.76515"
          style="stroke-width:0.10735308">x<tspan
-   style="font-size:2.7911799px;baseline-shift:sub;stroke-width:0.10735308"
-   id="tspan112">1</tspan></tspan></text>
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan7712">0</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.29412317px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.10735308"
@@ -213,8 +213,8 @@
          x="60.771099"
          y="140.63208"
          style="stroke-width:0.10735308">x<tspan
-   style="font-size:2.7911799px;baseline-shift:sub;stroke-width:0.10735308"
-   id="tspan135">2</tspan></tspan></text>
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan7714">1</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"

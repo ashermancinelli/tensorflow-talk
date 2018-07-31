@@ -19,7 +19,7 @@
    inkscape:export-filename="/home/asher/sample-network.png"
    inkscape:export-xdpi="250"
    inkscape:export-ydpi="250"
-   inkscape:version="0.92.2 2405546, 2018-03-11">
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
   <defs
      id="defs2">
     <linearGradient
@@ -53,17 +53,17 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.8"
-     inkscape:cx="181.26513"
+     inkscape:cx="30.186973"
      inkscape:cy="97.626625"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
      showguides="false"
-     inkscape:window-width="1836"
-     inkscape:window-height="940"
-     inkscape:window-x="40"
-     inkscape:window-y="96"
-     inkscape:window-maximized="1">
+     inkscape:window-width="1280"
+     inkscape:window-height="1024"
+     inkscape:window-x="1280"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0">
     <inkscape:grid
        type="xygrid"
        id="grid27"
@@ -78,7 +78,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -181,7 +181,7 @@
        inkscape:connection-start="#path10-3" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 85.472106,97.308851 6.187118,0.02524"
+       d="m 85.472106,97.30885 6.187118,0.02524"
        id="path102"
        inkscape:connector-type="polyline"
        inkscape:connector-curvature="3"
@@ -209,8 +209,8 @@
          x="12.345174"
          y="85.762306"
          style="stroke-width:0.10735308">x<tspan
-   style="font-size:2.7911799px;baseline-shift:sub;stroke-width:0.10735308"
-   id="tspan112">1</tspan></tspan></text>
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan8249">0</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.29412317px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.10735308"
@@ -223,8 +223,8 @@
          x="11.903146"
          y="98.629234"
          style="stroke-width:0.10735308">x<tspan
-   style="font-size:64.99999762%;baseline-shift:sub"
-   id="tspan135">2</tspan></tspan></text>
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan8251">1</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
