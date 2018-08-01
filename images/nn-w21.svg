@@ -10,16 +10,16 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="107.23186mm"
-   height="44.674835mm"
-   viewBox="0 0 107.23186 44.674835"
+   width="85.203308mm"
+   height="44.664124mm"
+   viewBox="0 0 85.20331 44.664123"
    version="1.1"
    id="svg8"
    sodipodi:docname="nn-w21.svg"
    inkscape:export-filename="/home/asher/sample-network.png"
    inkscape:export-xdpi="250"
    inkscape:export-ydpi="250"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+   inkscape:version="0.92.2 2405546, 2018-03-11">
   <defs
      id="defs2">
     <linearGradient
@@ -53,22 +53,22 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
-     inkscape:cx="54.634001"
-     inkscape:cy="69.153816"
+     inkscape:cx="79.161274"
+     inkscape:cy="71.990721"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
      showguides="false"
-     inkscape:window-width="1276"
-     inkscape:window-height="988"
-     inkscape:window-x="1280"
-     inkscape:window-y="16"
+     inkscape:window-width="896"
+     inkscape:window-height="940"
+     inkscape:window-x="980"
+     inkscape:window-y="96"
      inkscape:window-maximized="0">
     <inkscape:grid
        type="xygrid"
        id="grid27"
-       originx="-47.557156"
-       originy="-916.49932" />
+       originx="-57.485113"
+       originy="-916.50469" />
   </sodipodi:namedview>
   <metadata
      id="metadata5">
@@ -86,7 +86,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-1.7566243,-72.35082)">
+     transform="translate(-11.684581,-72.356176)">
     <circle
        style="fill:url(#linearGradient68);fill-opacity:1;stroke:#000000;stroke-width:0.13833742;stroke-opacity:1"
        id="path10"
@@ -165,80 +165,31 @@
        inkscape:connector-curvature="3"
        inkscape:connection-start="#path10-3-7"
        inkscape:connection-end="#path10-6-5" />
-    <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 23.169308,89.291268 -6.443862,-0.08368"
-       id="path98"
-       inkscape:connector-type="polyline"
-       inkscape:connector-curvature="3"
-       inkscape:connection-start="#path10" />
-    <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 23.169261,103.27885 -6.916285,-0.0862"
-       id="path100"
-       inkscape:connector-type="polyline"
-       inkscape:connector-curvature="3"
-       inkscape:connection-start="#path10-3" />
-    <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 85.472106,97.308849 6.187118,0.02524"
-       id="path102"
-       inkscape:connector-type="polyline"
-       inkscape:connector-curvature="3"
-       inkscape:connection-start="#path10-6-5" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="16.441965"
+       x="23.434525"
        y="80.986603"
        id="text106"><tspan
          sodipodi:role="line"
          id="tspan104"
-         x="16.441965"
+         x="23.434525"
          y="80.986603"
          style="font-size:3.17499995px;stroke-width:0.26458332">Input</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:4.29412317px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.10735308"
-       x="12.345174"
-       y="85.762306"
-       id="text110"
-       transform="scale(0.95204711,1.0503682)"><tspan
-         sodipodi:role="line"
-         id="tspan108"
-         x="12.345174"
-         y="85.762306"
-         style="stroke-width:0.10735308">x<tspan
-   style="font-size:64.99999762%;baseline-shift:sub"
-   id="tspan7088">0</tspan></tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:4.29412317px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.10735308"
-       x="11.903146"
-       y="98.629234"
-       id="text110-3"
-       transform="scale(0.9520471,1.0503682)"><tspan
-         sodipodi:role="line"
-         id="tspan108-5"
-         x="11.903146"
-         y="98.629234"
-         style="stroke-width:0.10735308">x<tspan
-   style="font-size:64.99999762%;baseline-shift:sub"
-   id="tspan7090">1</tspan></tspan></text>
-    <text
-       xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="80.983208"
-       y="81.322311"
+       x="75.880531"
+       y="81.700287"
        id="text106-2"><tspan
          sodipodi:role="line"
          id="tspan104-9"
-         x="80.983208"
-         y="81.322311"
+         x="75.880531"
+         y="81.700287"
          style="font-size:3.17499995px;stroke-width:0.26458332">Output</tspan><tspan
          sodipodi:role="line"
-         x="80.983208"
-         y="94.551476"
+         x="75.880531"
+         y="94.929451"
          style="font-size:3.17499995px;stroke-width:0.26458332"
          id="tspan155" /></text>
     <text
@@ -396,7 +347,7 @@
          x="69.348145"
          y="85.687233"
          style="stroke-width:0.11853122">w<tspan
-   style="font-size:65%;baseline-shift:sub"
+   style="font-size:64.99999762%;baseline-shift:sub"
    id="tspan9654">0,1</tspan></tspan></text>
     <text
        xml:space="preserve"
@@ -413,12 +364,12 @@
    style="font-size:64.99999762%;baseline-shift:sub"
    id="tspan4095">1,1</tspan></tspan></text>
     <rect
-       style="fill:#2aff2a;fill-opacity:0;stroke:#000000;stroke-width:0.21173486;stroke-opacity:1"
+       style="fill:#2aff2a;fill-opacity:0;stroke:#000000;stroke-width:0.18874103;stroke-opacity:1"
        id="rect5002"
-       width="107.02012"
-       height="44.4631"
-       x="1.8624917"
-       y="72.456688" />
+       width="85.014565"
+       height="44.475384"
+       x="11.778952"
+       y="72.450546" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"

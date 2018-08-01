@@ -10,12 +10,12 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="100.80624mm"
-   height="50.15744mm"
-   viewBox="0 0 100.80624 50.15744"
+   width="84.655724mm"
+   height="50.143681mm"
+   viewBox="0 0 84.655727 50.14368"
    version="1.1"
    id="svg5356"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   inkscape:version="0.92.2 2405546, 2018-03-11"
    sodipodi:docname="nn-w1.svg">
   <defs
      id="defs5350">
@@ -49,16 +49,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4"
-     inkscape:cx="-10.536408"
-     inkscape:cy="49.612083"
+     inkscape:zoom="2.8"
+     inkscape:cx="100.61526"
+     inkscape:cy="79.811237"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1276"
-     inkscape:window-height="988"
-     inkscape:window-x="1280"
-     inkscape:window-y="16"
+     inkscape:window-width="1836"
+     inkscape:window-height="940"
+     inkscape:window-x="40"
+     inkscape:window-y="96"
      inkscape:window-maximized="0" />
   <metadata
      id="metadata5353">
@@ -76,7 +76,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-49.382586,-113.73825)">
+     transform="translate(-59.573097,-113.74512)">
     <circle
        style="fill:url(#linearGradient68);fill-opacity:1;stroke:#000000;stroke-width:0.13833742;stroke-opacity:1"
        id="path10"
@@ -155,80 +155,31 @@
        inkscape:connector-curvature="3"
        inkscape:connection-start="#path10-3-7"
        inkscape:connection-end="#path10-6-5" />
-    <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 69.693902,133.40972 -6.443862,-0.0837"
-       id="path98"
-       inkscape:connector-type="polyline"
-       inkscape:connector-curvature="3"
-       inkscape:connection-start="#path10" />
-    <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 69.693857,147.39732 -6.916287,-0.0862"
-       id="path100"
-       inkscape:connector-type="polyline"
-       inkscape:connector-curvature="3"
-       inkscape:connection-start="#path10-3" />
-    <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 131.9967,141.42729 6.18712,0.0252"
-       id="path102"
-       inkscape:connector-type="polyline"
-       inkscape:connector-curvature="3"
-       inkscape:connection-start="#path10-6-5" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="62.966557"
-       y="125.10506"
+       x="69.581139"
+       y="124.91607"
        id="text106"><tspan
          sodipodi:role="line"
          id="tspan104"
-         x="62.966557"
-         y="125.10506"
+         x="69.581139"
+         y="124.91607"
          style="font-size:3.17499995px;stroke-width:0.26458332">Input</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:4.29412317px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.10735308"
-       x="61.213127"
-       y="127.76515"
-       id="text110"
-       transform="scale(0.9520471,1.0503682)"><tspan
-         sodipodi:role="line"
-         id="tspan108"
-         x="61.213127"
-         y="127.76515"
-         style="stroke-width:0.10735308">x<tspan
-   style="font-size:65%;baseline-shift:sub"
-   id="tspan7712">0</tspan></tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:4.29412317px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.10735308"
-       x="60.771099"
-       y="140.63208"
-       id="text110-3"
-       transform="scale(0.9520471,1.0503682)"><tspan
-         sodipodi:role="line"
-         id="tspan108-5"
-         x="60.771099"
-         y="140.63208"
-         style="stroke-width:0.10735308">x<tspan
-   style="font-size:65%;baseline-shift:sub"
-   id="tspan7714">1</tspan></tspan></text>
-    <text
-       xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="127.5078"
-       y="125.44077"
+       x="121.93265"
+       y="125.72426"
        id="text106-2"><tspan
          sodipodi:role="line"
          id="tspan104-9"
-         x="127.5078"
-         y="125.44077"
+         x="121.93265"
+         y="125.72426"
          style="font-size:3.17499995px;stroke-width:0.26458332">Output</tspan><tspan
          sodipodi:role="line"
-         x="127.5078"
-         y="138.66994"
+         x="121.93265"
+         y="138.95343"
          style="font-size:3.17499995px;stroke-width:0.26458332"
          id="tspan155" /></text>
     <text
@@ -386,7 +337,7 @@
          x="119.08099"
          y="126.95962"
          style="stroke-width:0.11853123">w<tspan
-   style="font-size:65%;baseline-shift:sub"
+   style="font-size:64.99999762%;baseline-shift:sub"
    id="tspan9500">0,1</tspan></tspan></text>
     <text
        xml:space="preserve"
@@ -403,11 +354,11 @@
    style="font-size:3.08181214px;baseline-shift:sub;stroke-width:0.11853123"
    id="tspan4095">1,1</tspan></tspan></text>
     <rect
-       style="fill:#2aff2a;fill-opacity:0;stroke:#000000;stroke-width:0.26458332;stroke-opacity:1"
+       style="fill:#2aff2a;fill-opacity:0;stroke:#000000;stroke-width:0.24245505;stroke-opacity:1"
        id="rect5634"
-       width="100.54166"
-       height="49.892857"
-       x="49.514877"
-       y="113.87054" />
+       width="84.413269"
+       height="49.901226"
+       x="59.694324"
+       y="113.86635" />
   </g>
 </svg>
